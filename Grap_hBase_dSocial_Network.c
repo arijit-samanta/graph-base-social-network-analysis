@@ -3,7 +3,7 @@
 #include <string.h>
 
 #define MAX_USERS 8
-#define INF 99999999  // Infinite distance for BFS
+#define INF 99999999 
 
 // -------------------- STRUCTURE DEFINITIONS --------------------
 
